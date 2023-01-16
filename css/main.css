@@ -45,3 +45,8 @@ body {
         font-size: 1.5em;
     }
 }
+
+.welcome_message {
+    font-size: 30px;
+    margin: 0px 25%;
+}
